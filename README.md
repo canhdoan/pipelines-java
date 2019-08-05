@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/thanhcanhdoan2411/AzureDevopsGetStarted01/_apis/build/status/canhdoan.pipelines-java?branchName=master)](https://dev.azure.com/thanhcanhdoan2411/AzureDevopsGetStarted01/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
